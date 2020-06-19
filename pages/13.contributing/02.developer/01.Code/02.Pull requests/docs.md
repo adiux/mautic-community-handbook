@@ -72,7 +72,7 @@ You will need to sign the [Mautic Contributors Agreement][contributor-agreement]
 
 ### Install the software stack 
 
-For installing the software stack, please see the [Local environment setup][local-environment-setup] instructions.
+For installing the software stack, please see the [Local environment setup][https://contribute.mautic.org/contributing-to-mautic/developer/local-environment-setup] instructions.
 
 ### Get the Mautic source code
 
